@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+
+#My files
+*.properties
+*.base64
+*.rle
+Menu
